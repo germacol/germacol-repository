@@ -1,0 +1,5 @@
+{
+  "name": "Airline Alliance Guide ver.3",
+  "description": "An interactive guide to the major airline alliances, their member carriers, loyalty programs, and main hubs. Click on an airline or alliance to visit their official website.",
+  "requestFramePermissions": []
+}
